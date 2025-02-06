@@ -1,5 +1,5 @@
 {
-   "name": "@nicbrasil/cli-check-configs-nestjs",
+   "name": "cli-check-configs-nestjs",
    "version": "1.0.0",
    "main": "index.js",
    "scripts": {
